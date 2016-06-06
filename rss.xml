@@ -4,7 +4,7 @@
         <description><![CDATA[Sweetman Design]]></description>
         <link>https://thegrid.ai/sweetman-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 21:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 21:13:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sweetman-design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Short Project: Using ambient displays to absorb news]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/sweetman-design/stickyboard-your-neighbourhood-noticeboard/index.html</link>
             <guid isPermaLink="false">3342b6e6-8876-48c8-b6a2-6b6829ef64bd</guid>
             <pubDate>Mon, 06 Jun 2016 20:38:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8e3a24b-0ec6-4562-abe5-9a96278e25d8.jpg">]]></description>
-            <link>https://thegrid.ai/sweetman-design/about-james/index.html</link>
-            <guid isPermaLink="false">8d06e363-0435-4bf5-a72e-3f07dd753b8d</guid>
-            <pubDate>Tue, 10 May 2016 20:39:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
