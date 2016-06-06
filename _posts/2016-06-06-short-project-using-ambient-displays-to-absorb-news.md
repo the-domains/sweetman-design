@@ -1,0 +1,76 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: >-
+  We are drowning in a mass of information fired at us non-stop throughout the
+  day from news and social network feeds. Prioritising and filtering this
+  information has become a job in itself. 
+datePublished: '2016-06-06T21:11:17.822Z'
+dateModified: '2016-06-06T21:11:16.826Z'
+title: 'Short Project: Using ambient displays to absorb news'
+author: []
+authors: []
+publisher: null
+starred: false
+sourcePath: _posts/2016-06-06-short-project-using-ambient-displays-to-absorb-news.md
+url: short-project-using-ambient-displays-to-absorb-news/index.html
+_type: Article
+
+---
+# Short Project: Using ambient displays to absorb news
+
+We are drowning in a mass of information fired at us non-stop throughout the day from news and social network feeds. Prioritising and filtering this information has become a job in itself. 
+
+We use our mobile devices to stay up to date with various information sources during the day wherever we are. But once we are at our work desk these devices become somewhat redundant. Could we use this untapped resource as an unobtrusive "ambient display" alongside the desktop?
+
+****
+
+**User Research**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/070946ff-397d-43a6-b572-e427f2ee1776.png)
+
+Building on user interviewers and using constructed personas I mapped out potential a user's every day. This meant we could test the assumptions of the brief and discover pain points, gaps and opportunities for such a ambient display service. 
+
+Overall I found \[1\] there was a need for such a service to do the 'heavy lifting' for people's daily dose of data, \[2\] there was a demand for this service beyond the desk (e.g. at home, on the commute), and \[3\] people interests differed on time and place (e.g. at home I want Sports updates rather than Stocks News at Work)
+
+****
+
+**Market Research**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cac51c45-d8e5-421a-809f-1eabd1c3149e.png)
+
+This service would sit in the Mobile / Tablet space and here we see healthy competition from companies like Feedly, Google Now and Apples recently announced news service. All of home are using/expanding on to the lock screen. From these competitors we can learn valuable UI lessons and comparisons for UX development.
+
+Much in line with [Fjord's liquid expectations][0], I also wanted to learn lessons from other ambient displays which provide a similar news service. I found the older precedent of muted News Channels in Office especially interesting.
+
+**Tech Limitations / Opportunities**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7eff0ded-18b4-497d-9206-18c6943f4c11.png)
+
+I learnt from users that a major concern around the service would be if it drained battery life, and due to using the devices other technical facilities a native experience (as opposed to responsive platform) would be required.
+
+In addition to this, there were also some opportunities with devices around location and time e.g. could we use this to customise our service to adapt to different places and times in a users everyday. 
+> 
+> Having completed this research I started to conceptualise the service offering and sketch out the main flows and screens. 
+
+**Onboarding process **
+
+This would seek to show the core value propositions of the service which did the 'heavy lifting' for users: proving curated and tailored news content in an ambient way with minimal user input.
+
+To help this be achieved Sign-up would have to be seamless (potential use of Oauth) and pre-set 'quick' categories to get people using the App quickly. 
+
+Once using the App. the service it would learn and adapt to users preferences through their interaction with the Ambient Display
+
+**Ambient Display**
+
+Placed in the space of the Lock Screen, this would be a automatically scrolling feeds of the latest news (similar in a way to the News bottom bars on older TV news services). People could then interact with content via gestures: a press and hold to control the scroll action and swipe left/right like Tinder to either Dismiss or Read More.
+
+Each time an item was dismissed/read the service would learn and adapt its settings to match user preferences.
+
+With the development of IOS9 currently, especially around Picture in Picture, there could be a future in also developing the Service to Run at the bottom of a Tablet's home screen.
+
+**Application**
+
+The application itself would serve as a area for Users to manager preferences/their account, and also read the news in more detail. Interestingly we found from users they often would like the ability to bookmark content to read offline so they could catch up on the News in more detail on whilst traveling.
+
+[0]: http://www.economistgroup.com/leanback/consumers/accenture-liquid-expectations/
