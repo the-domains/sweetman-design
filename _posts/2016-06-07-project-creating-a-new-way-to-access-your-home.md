@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-07T17:50:20.392Z'
-dateModified: '2016-06-07T17:50:17.011Z'
-title: 'Project: Creating a new way to access your home '
+datePublished: '2016-06-07T17:57:23.736Z'
+dateModified: '2016-06-07T17:56:29.550Z'
+title: 'Project: Creating a new way to access your home'
 author: []
+sourcePath: _posts/2016-06-07-project-creating-a-new-way-to-access-your-home.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-07-project-creating-a-new-way-to-access-your-home.md
 url: project-creating-a-new-way-to-access-your-home/index.html
 _type: Article
 
@@ -22,7 +22,6 @@ _type: Article
 With the advent of the internet of things, and services like the Nest, I felt there could be a service which could improve the experience of people accessing their homes. 
 
 Having conducted 6 user interview with my target audience, I formed the below problem statement and personas, and began to create a service which sought to revolutionise how we might interact with our homes.
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e591f042-37e2-4fca-b2ee-01bf11b697ee.jpg)
 
 ## Problem statement
@@ -62,8 +61,6 @@ Aims
 ****
 
 > Often..."only going home when I know someone is there to let me in"
-> 
-> 
 
 **Ben and Anna - The Couple**
 
@@ -80,21 +77,25 @@ Behaviours
 Challenges
 
 * Transitioning of keys when people come to stay is often tricky - especially returning the keys.
-* **Quite trusting of people but would like some reassurance when stranger come around.**
-* **Workmen come at the most inconvenient times. Often having to rebook/take time off work to let them in.**
+* Quite trusting of people but would like some reassurance when stranger come around.
+* Workmen come at the most inconvenient times. Often having to rebook/take time off work to let them in.
 
 Aims
 
 * To be able to give and take temporary access of their house to guests. 
-* To be able to trust and have workmen/people over when they are away at work.  
+* To be able to trust and have workmen/people over when they are away at work.
 
 > "Usually you've left the country and the guest arrives"
 
 ****
 
 ## Service Value Proposition
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f657351-3bee-4ecb-9bc3-f108c9a5913b.png)
 
 > You never will need keys again. Using Lockie you can secure and access your home from anywhere in the world 
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34e0b8e4-1d14-4639-bd93-11c412e68f8d.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45ed5988-8b2d-40eb-9224-d8647ce4c138.png)
 
 ****
 
