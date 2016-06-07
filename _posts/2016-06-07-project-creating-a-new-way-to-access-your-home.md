@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-07T17:57:23.736Z'
-dateModified: '2016-06-07T17:56:29.550Z'
+datePublished: '2016-06-07T17:59:46.357Z'
+dateModified: '2016-06-07T17:59:36.817Z'
 title: 'Project: Creating a new way to access your home'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-07-project-creating-a-new-way-to-access-your-home.md
 authors: []
 publisher: null
