@@ -8,9 +8,9 @@ description: >-
   Started in 2010, Stickyboard grew and changed over the years. It went through
   4 core versions and each development was driven by lessons learnt from user
   research, testing and data derived from analytics and surveys.
-datePublished: '2016-06-07T16:59:56.783Z'
-dateModified: '2016-06-07T16:56:39.666Z'
-title: 'Stickyboard: Your Neighbourhood noticeboard'
+datePublished: '2016-06-07T17:59:06.266Z'
+dateModified: '2016-06-07T17:59:03.990Z'
+title: 'Application: Stickyboard, your neighbourhood noticeboard'
 author: []
 sourcePath: _posts/2016-06-06-stickyboard-your-neighbourhood-noticeboard.md
 authors: []
@@ -20,7 +20,7 @@ url: stickyboard-your-neighbourhood-noticeboard/index.html
 _type: Article
 
 ---
-# Stickyboard: Your Neighbourhood noticeboard
+# Application: Stickyboard, your neighbourhood noticeboard
 
 Started in 2010, Stickyboard grew and changed over the years. It went through 4 core versions and each development was driven by lessons learnt from user research, testing and data derived from analytics and surveys.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07443518-1d50-4e7b-8e3a-52096a5834e1.jpg)
