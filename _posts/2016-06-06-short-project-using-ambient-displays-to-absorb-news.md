@@ -8,14 +8,14 @@ description: >-
   We are drowning in a mass of information fired at us non-stop throughout the
   day from news and social network feeds. Prioritising and filtering this
   information has become a job in itself. 
-datePublished: '2016-06-06T21:11:17.822Z'
-dateModified: '2016-06-06T21:11:16.826Z'
+datePublished: '2016-06-07T16:50:57.593Z'
+dateModified: '2016-06-07T16:50:55.170Z'
 title: 'Short Project: Using ambient displays to absorb news'
 author: []
+sourcePath: _posts/2016-06-06-short-project-using-ambient-displays-to-absorb-news.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-06-short-project-using-ambient-displays-to-absorb-news.md
 url: short-project-using-ambient-displays-to-absorb-news/index.html
 _type: Article
 
@@ -54,6 +54,9 @@ In addition to this, there were also some opportunities with devices around loca
 > Having completed this research I started to conceptualise the service offering and sketch out the main flows and screens. 
 
 **Onboarding process **
+![Onboard flow sketch](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ba64ffc-c678-431b-9857-79a3535fd47c.jpg)
+
+****
 
 This would seek to show the core value propositions of the service which did the 'heavy lifting' for users: proving curated and tailored news content in an ambient way with minimal user input.
 
@@ -61,7 +64,8 @@ To help this be achieved Sign-up would have to be seamless (potential use of Oau
 
 Once using the App. the service it would learn and adapt to users preferences through their interaction with the Ambient Display
 
-**Ambient Display**
+**Ambient Display******
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/830d3373-a722-4260-b373-14d9896844f6.jpg)
 
 Placed in the space of the Lock Screen, this would be a automatically scrolling feeds of the latest news (similar in a way to the News bottom bars on older TV news services). People could then interact with content via gestures: a press and hold to control the scroll action and swipe left/right like Tinder to either Dismiss or Read More.
 
@@ -70,7 +74,16 @@ Each time an item was dismissed/read the service would learn and adapt its setti
 With the development of IOS9 currently, especially around Picture in Picture, there could be a future in also developing the Service to Run at the bottom of a Tablet's home screen.
 
 **Application**
+![Sketch of in App UI](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e74ca038-6a52-43e5-92d7-a065b87318eb.jpg)
 
 The application itself would serve as a area for Users to manager preferences/their account, and also read the news in more detail. Interestingly we found from users they often would like the ability to bookmark content to read offline so they could catch up on the News in more detail on whilst traveling.
 
+**The next iteration******
+
+Using these paper prototypes I conducted a quick handful of user tests. A fuller set of remote testing on native devices would have helped develop this idea further and more conclusively (for instance using a service like[usertesting.com][1]). But sufficient learnings were drawn in order to put together they below higher fidelity mock-ups.
+![Onboarding Mock-up](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f7b0f3f-dbbe-45d9-b12e-73fd990d6849.png)
+![Ambient Mock-up](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15a085e3-eb83-4ec8-acc8-6da4d25ab558.png)
+![App UI Mock-up](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8d988c6-e3b2-4bd4-8de6-255a02e2fa8e.png)
+
 [0]: http://www.economistgroup.com/leanback/consumers/accenture-liquid-expectations/
+[1]: https://www.usertesting.com/
