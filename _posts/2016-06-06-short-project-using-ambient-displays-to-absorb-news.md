@@ -8,10 +8,12 @@ description: >-
   We are drowning in a mass of information fired at us non-stop throughout the
   day from news and social network feeds. Prioritising and filtering this
   information has become a job in itself. 
-datePublished: '2016-06-07T16:50:57.593Z'
-dateModified: '2016-06-07T16:50:55.170Z'
+datePublished: '2016-06-07T17:00:22.292Z'
+dateModified: '2016-06-07T16:57:54.835Z'
 title: 'Short Project: Using ambient displays to absorb news'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-06-short-project-using-ambient-displays-to-absorb-news.md
 authors: []
 publisher: null
