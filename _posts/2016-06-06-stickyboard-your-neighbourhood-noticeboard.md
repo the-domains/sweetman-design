@@ -8,14 +8,14 @@ description: >-
   Started in 2010, Stickyboard grew and changed over the years. It went through
   4 core versions and each development was driven by lessons learnt from user
   research, testing and data derived from analytics and surveys.
-datePublished: '2016-06-07T16:06:09.127Z'
-dateModified: '2016-06-07T16:06:08.100Z'
+datePublished: '2016-06-07T16:59:56.783Z'
+dateModified: '2016-06-07T16:56:39.666Z'
 title: 'Stickyboard: Your Neighbourhood noticeboard'
 author: []
+sourcePath: _posts/2016-06-06-stickyboard-your-neighbourhood-noticeboard.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-06-stickyboard-your-neighbourhood-noticeboard.md
 url: stickyboard-your-neighbourhood-noticeboard/index.html
 _type: Article
 
@@ -40,6 +40,6 @@ User centric design techniques and usability research were intrinsic to developm
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4ae0138-b9e7-4b8a-a56f-8100cf39e580.png)
 
 Before then working towards a final release such as this one...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e22a6d6b-fa1f-4a2b-a801-0a75531a530c.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/40f8cde1d2bf79cf34e9a23801908495ae816f74.png)
 
 This process would be refined and developed over the many noticeboard iterations. The noticeboard has grown and changed with developments in technology, behavioural design, and wants of users over the years: making it both a rewarding project and its roadmap a catalogue of developments in the field. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2babdb7-2676-44d5-b517-d8912f04e5e9.png)
