@@ -7,8 +7,8 @@ keywords: []
 description: >-
   From analysis of internal admin and customer experiences, I designed and help
   deliver a complete administrative software system.
-datePublished: '2016-06-08T21:16:49.867Z'
-dateModified: '2016-06-08T21:15:22.620Z'
+datePublished: '2016-06-08T21:25:01.366Z'
+dateModified: '2016-06-08T21:23:58.056Z'
 title: 'Client work '
 author:
   - name: ''
@@ -21,7 +21,9 @@ url: client-work/index.html
 _type: Article
 
 ---
-# Client work 
+# Client work ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d12112f3-22d8-4434-99ac-9c62880275b8.jpg)
+
+## Using a waterfall approach, he collaborated with clients through the whole project lifecycle: from inital pitch and capturing requirements to finalising designs, project delivery and ongoing technical support.
 
 ## Complex and interdependent flows: Bikeworks
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a64f3602-6573-44fa-b62d-698091ccd2c9.png)
