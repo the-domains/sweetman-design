@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-08T20:09:11.598Z'
-dateModified: '2016-06-08T20:08:19.859Z'
+datePublished: '2016-06-08T20:09:57.828Z'
+dateModified: '2016-06-08T20:09:57.195Z'
 title: 'Project: Creating a new way to access your home'
 author:
   - name: ''
@@ -136,7 +136,6 @@ Developing user records
 * Seeing when people leave and arrive on certain days
 
 ## Prototyping: mid-fi + User Testing
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1848d23f-77ed-4505-910e-ae488f23a949.png)
 
 For the mid-fi prototype please visit [here][1]
 
