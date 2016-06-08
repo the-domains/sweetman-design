@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-08T20:09:57.828Z'
-dateModified: '2016-06-08T20:09:57.195Z'
+datePublished: '2016-06-08T20:19:59.106Z'
+dateModified: '2016-06-08T20:19:18.556Z'
 title: 'Project: Creating a new way to access your home'
 author:
   - name: ''
@@ -105,10 +105,14 @@ Having matched Lockie's service offering to the needs of the two personas, I the
 
 * Gini - being able to access her place having forgotten her phone, how she checks if here flat is secure, being able to have things delivered whilst not home
 * Ben & Anna - to be able to give guest temporary access, to be able to trust and let a workman in whilst away
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91043bf9-ec03-4b77-a686-dc289e6c9203.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/030be148-2c50-4873-bbf5-4b3052e06496.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb2f4f53-63b7-4b27-96c3-ef67fa83e005.png)
 
 ## Prototyping: low-fi + User Testing
 
 Each flow would deserve development and prototyping. To get an initial feel if Lockie was tapping into a user need, I looked at the onboarding and main home user interface.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43146d5b-b6d3-494d-bfb1-6e1a348d74ff.png)
 
 For the onboarding flow Prototype visit [here][0]
 
@@ -136,6 +140,7 @@ Developing user records
 * Seeing when people leave and arrive on certain days
 
 ## Prototyping: mid-fi + User Testing
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70074c10-4fc2-4732-961e-a161de183191.png)
 
 For the mid-fi prototype please visit [here][1]
 
@@ -151,6 +156,8 @@ Alongside other points around clarifying product or increasing functionaility
 > Can guests or other flatmates choose to have their entry and exit times hidden?
 
 > Would guests etc need the Lockie app too?
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa1bc00e-8215-4f17-98c8-890fb21d3552.jpg)
 
 ## Next Steps
 
