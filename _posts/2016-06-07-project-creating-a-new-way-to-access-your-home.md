@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-08T19:49:02.438Z'
-dateModified: '2016-06-08T19:43:38.364Z'
+datePublished: '2016-06-08T20:09:11.598Z'
+dateModified: '2016-06-08T20:08:19.859Z'
 title: 'Project: Creating a new way to access your home'
 author:
   - name: ''
@@ -105,20 +105,16 @@ Having matched Lockie's service offering to the needs of the two personas, I the
 
 * Gini - being able to access her place having forgotten her phone, how she checks if here flat is secure, being able to have things delivered whilst not home
 * Ben & Anna - to be able to give guest temporary access, to be able to trust and let a workman in whilst away
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1fcea2b-a923-479e-8d34-d39adbad651c.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d100bcca-888c-41cc-89b8-935c7d6165f6.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3afae494-3416-496d-a531-4356a98b6246.png)
 
 ## Prototyping: low-fi + User Testing
 
 Each flow would deserve development and prototyping. To get an initial feel if Lockie was tapping into a user need, I looked at the onboarding and main home user interface.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36594b0e-1da9-4aea-b8d4-3483245aade9.png)
 
-Built using Marvel, for the onboarding flow Prototype visit [here][0]
+For the onboarding flow Prototype visit [here][0]
 
 ****
 
-This onboard process was tested against 4 separate users with the scenario of having just installed their Lockie locks and fired up the app. From this the core feedback was summarised as follows 
+This onboard process was tested against 4 separate users with the scenario of having just installed their Lockie locks and fired up the app. Through listening to comments as they navigated through the core feedback was overall positive about the product with points around
 
 Clearer next progression
 
@@ -129,7 +125,7 @@ Quickening Invites
 
 ****
 
-* Using Facebook / google contacts potentially
+> Could I use Facebook or google to login and find my contacts?
 
 ****
 
@@ -140,12 +136,33 @@ Developing user records
 * Seeing when people leave and arrive on certain days
 
 ## Prototyping: mid-fi + User Testing
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1848d23f-77ed-4505-910e-ae488f23a949.png)
 
-**[][1]**
+For the mid-fi prototype please visit [here][1]
+
+Taking these initial lessons I continued to the next round of user testing. Again this occured in an interview like environment and giiving the users the same simple senario. Thier behaviour and verbal feedback indicated:
+
+* the 'next' button on the prototype could be move along to the bottom so as to make it easier to reach on mobile
+* potentially new and current users should be on separate screens / clearer stages
+* 'Gmail' should perhaps be just 'email'?
+* Icons on the home screen could be accompanied by a label
+
+Alongside other points around clarifying product or increasing functionaility
+
+> Can guests or other flatmates choose to have their entry and exit times hidden?
+
+> Would guests etc need the Lockie app too?
+
+## Next Steps
+
+This initial work has indicated that their is certainly a user need whcih should be answered. With another iteration or two on the onboarding alongside a similar process for the other general/persona specific flows 
+
+**[][2]**
 
 ****
 
 ****
 
 [0]: null
-[1]: https://marvelapp.com/fbg751
+[1]: https://marvelapp.com/143f16g 
+[2]: https://marvelapp.com/fbg751
