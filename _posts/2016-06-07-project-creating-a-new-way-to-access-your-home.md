@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-08T21:46:28.055Z'
-dateModified: '2016-06-08T21:46:07.338Z'
+datePublished: '2016-06-08T21:49:11.912Z'
+dateModified: '2016-06-08T21:49:03.665Z'
 title: 'Project: Creating a new way to access your home'
 author:
   - name: ''
@@ -91,12 +91,14 @@ Aims
 
 > "Usually you've left the country and the guest arrives"
 > 
->   
 > 
 
 ****
 
 ## Service Value Proposition
+
+> You never will need keys again. Using Lockie you can secure and access your home from anywhere in the world
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc05d0fa-b86a-4af2-b7e0-3f92415d6fb0.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34e0b8e4-1d14-4639-bd93-11c412e68f8d.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45ed5988-8b2d-40eb-9224-d8647ce4c138.png)
@@ -107,8 +109,8 @@ Having matched Lockie's service offering to the needs of the two personas, I the
 
 * Gini - being able to access her place having forgotten her phone, how she checks if here flat is secure, being able to have things delivered whilst not home
 * Ben & Anna - to be able to give guest temporary access, to be able to trust and let a workman in whilst away
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91043bf9-ec03-4b77-a686-dc289e6c9203.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/030be148-2c50-4873-bbf5-4b3052e06496.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fa2e978-fcb5-49a0-af48-6ba7c5c34b3c.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb2f4f53-63b7-4b27-96c3-ef67fa83e005.png)
 
 ## Prototyping: low-fi + User Testing
