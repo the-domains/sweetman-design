@@ -8,8 +8,8 @@ description: >-
   We are drowning in a mass of information fired at us non-stop throughout the
   day from news and social network feeds. Prioritising and filtering this
   information has become a job in itself. 
-datePublished: '2016-06-08T21:08:31.899Z'
-dateModified: '2016-06-08T21:03:45.675Z'
+datePublished: '2016-06-08T21:32:12.229Z'
+dateModified: '2016-06-08T21:31:44.932Z'
 title: 'Short Project: Using ambient displays to absorb news'
 author:
   - name: ''
@@ -83,8 +83,8 @@ The application itself would serve as a area for Users to manager preferences/th
 **The next iteration******
 
 Using these paper prototypes I conducted a quick handful of user tests. A fuller set of remote testing on native devices would have helped develop this idea further and more conclusively (for instance using a service like[usertesting.com][1]). But sufficient learnings were drawn in order to put together they below higher fidelity mock-ups.
-![Onboarding Mock-up](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f7b0f3f-dbbe-45d9-b12e-73fd990d6849.png)
-![Ambient Mock-up](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15a085e3-eb83-4ec8-acc8-6da4d25ab558.png)
+![Onboarding Mock-up](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba6cf84268faf0875800347f9bbde7e87d164df4.png)
+![Ambient Mock-up](https://s3-us-west-2.amazonaws.com/the-grid-img/p/632f4eae6a5a58ec352c74728c3c6babb06e37f2.png)
 ![App UI Mock-up](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8d988c6-e3b2-4bd4-8de6-255a02e2fa8e.png)
 
 [0]: http://www.economistgroup.com/leanback/consumers/accenture-liquid-expectations/
