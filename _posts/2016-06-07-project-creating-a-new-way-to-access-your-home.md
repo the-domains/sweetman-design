@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-07T17:59:46.357Z'
-dateModified: '2016-06-07T17:59:36.817Z'
+datePublished: '2016-06-08T19:28:57.900Z'
+dateModified: '2016-06-08T19:28:50.787Z'
 title: 'Project: Creating a new way to access your home'
 author:
   - name: ''
@@ -98,6 +98,18 @@ Aims
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34e0b8e4-1d14-4639-bd93-11c412e68f8d.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45ed5988-8b2d-40eb-9224-d8647ce4c138.png)
+
+## User Flows
+
+Having matched Lockie's service offering to the needs of the two personas, I then began detailing out general flows experienced by all users- onboarding, loss of mobile and Lockie losing power - and specific flows to a particular persona. This included:
+
+* Gini - being able to access her place having forgotten her phone, how she checks if here flat is secure, being able to have things delivered whilst not home
+* Ben & Anna - to be able to give guest temporary access, to be able to trust and let a workman in whilst away
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1fcea2b-a923-479e-8d34-d39adbad651c.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d100bcca-888c-41cc-89b8-935c7d6165f6.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3afae494-3416-496d-a531-4356a98b6246.png)
+
+## Prototyping: low-fi
 
 ****
 
