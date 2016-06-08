@@ -8,8 +8,8 @@ description: >-
   I am an experienced UX strategist, designer and product manager. Having
   co-founded and run my own successful start-up for 5 years, I now work as
   BMOgam’s digital manager for Europe. 
-datePublished: '2016-06-08T21:02:18.773Z'
-dateModified: '2016-06-08T21:01:55.116Z'
+datePublished: '2016-06-08T21:08:16.051Z'
+dateModified: '2016-06-08T21:05:02.310Z'
 title: About James
 author: []
 sourcePath: _posts/2016-05-10-about-james.md
@@ -30,8 +30,7 @@ I have been responsible for end-to-end delivery of IT projects for client compan
 > 
 > Discovering what make people tick, and building products to match those needs is what I love. 
 
-I am a fast learner and passionate about UX. A keen follower of technological trends, I relish applying the latest thinking, and communicating its benefits to technical and non-technical stakeholders.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19010cad-f7ad-4c3e-8f76-d8ba6a7e4aed.png)
+I am a fast learner and passionate about UX. A keen follower of technological trends, I relish applying the latest thinking, and communicating its benefits to technical and non-technical stakeholders. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19010cad-f7ad-4c3e-8f76-d8ba6a7e4aed.png)
 
 Drop me a line - [Linkedin][0] | [Twitter][1] | [Email][2]
 
