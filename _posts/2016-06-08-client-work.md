@@ -7,8 +7,8 @@ keywords: []
 description: >-
   From analysis of internal admin and customer experiences, I designed and help
   deliver a complete administrative software system.
-datePublished: '2016-06-08T21:25:57.260Z'
-dateModified: '2016-06-08T21:25:30.648Z'
+datePublished: '2016-06-08T21:26:24.129Z'
+dateModified: '2016-06-08T21:26:06.096Z'
 title: 'Client work '
 author:
   - name: ''
