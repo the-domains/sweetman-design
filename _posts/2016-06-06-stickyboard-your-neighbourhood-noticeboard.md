@@ -8,8 +8,8 @@ description: >-
   Started in 2010, Stickyboard grew and changed over the years. It went through
   4 core versions and each development was driven by lessons learnt from user
   research, testing and data derived from analytics and surveys.
-datePublished: '2016-06-07T17:59:06.266Z'
-dateModified: '2016-06-07T17:59:03.990Z'
+datePublished: '2016-06-08T19:15:27.778Z'
+dateModified: '2016-06-07T17:59:17.122Z'
 title: 'Application: Stickyboard, your neighbourhood noticeboard'
 author: []
 sourcePath: _posts/2016-06-06-stickyboard-your-neighbourhood-noticeboard.md
