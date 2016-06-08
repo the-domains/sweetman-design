@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-08T21:49:11.912Z'
-dateModified: '2016-06-08T21:49:03.665Z'
+datePublished: '2016-06-08T21:49:44.445Z'
+dateModified: '2016-06-08T21:49:20.747Z'
 title: 'Project: Creating a new way to access your home'
 author:
   - name: ''
@@ -90,8 +90,6 @@ Aims
 * To be able to trust and have workmen/people over when they are away at work.
 
 > "Usually you've left the country and the guest arrives"
-> 
-> 
 
 ****
 
