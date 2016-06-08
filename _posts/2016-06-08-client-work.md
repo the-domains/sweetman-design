@@ -6,9 +6,9 @@ inLanguage: null
 keywords: []
 description: >-
   From analysis of internal admin and customer experiences, I designed and help
-  deliver a complete administrative software system. 
-datePublished: '2016-06-08T20:53:39.524Z'
-dateModified: '2016-06-08T20:53:19.411Z'
+  deliver a complete administrative software system.
+datePublished: '2016-06-08T20:55:11.001Z'
+dateModified: '2016-06-08T20:53:44.195Z'
 title: 'Client work '
 author: []
 sourcePath: _posts/2016-06-08-client-work.md
