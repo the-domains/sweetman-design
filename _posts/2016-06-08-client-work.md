@@ -7,9 +7,12 @@ keywords: []
 description: >-
   From analysis of internal admin and customer experiences, I designed and help
   deliver a complete administrative software system.
-datePublished: '2016-06-08T21:33:17.866Z'
-dateModified: '2016-06-08T21:29:46.098Z'
-title: 'Client work '
+datePublished: '2016-06-08T21:41:54.950Z'
+dateModified: '2016-06-08T21:41:41.079Z'
+title: >-
+  Using a waterfall approach, he collaborated with clients through the whole
+  project lifecycle: from initial pitch and capturing requirements to finalising
+  designs, project delivery and ongoing technical support.
 author:
   - name: ''
     url: ''
@@ -33,6 +36,8 @@ From analysis of internal admin and customer experiences, I designed and help de
 
 **Core takeaways: **handling complex user flows for Staff, Customer and Admin interactions across 11 business areas, running Kick-off and project meetings with 9 people.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59a3bba2-d101-4430-a687-6e6747936446.png)
+
+## 
 
 ## Full branding and waterfall design process: Ealing CVS ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6210663ddba3e39575a5621fbb0cc570b5aa3900.png)
 
