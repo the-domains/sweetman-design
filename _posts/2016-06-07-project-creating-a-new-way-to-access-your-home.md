@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-08T20:54:31.705Z'
-dateModified: '2016-06-08T20:20:02.691Z'
+datePublished: '2016-06-08T20:57:48.074Z'
+dateModified: '2016-06-08T20:57:31.305Z'
 title: 'Project: Creating a new way to access your home'
 author:
   - name: ''
