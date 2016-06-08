@@ -8,10 +8,12 @@ description: >-
   Started in 2010, Stickyboard grew and changed over the years. It went through
   4 core versions and each development was driven by lessons learnt from user
   research, testing and data derived from analytics and surveys.
-datePublished: '2016-06-08T19:15:27.778Z'
-dateModified: '2016-06-07T17:59:17.122Z'
+datePublished: '2016-06-08T21:02:28.590Z'
+dateModified: '2016-06-08T20:59:14.920Z'
 title: 'Application: Stickyboard, your neighbourhood noticeboard'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-06-stickyboard-your-neighbourhood-noticeboard.md
 authors: []
 publisher: null
@@ -23,7 +25,7 @@ _type: Article
 # Application: Stickyboard, your neighbourhood noticeboard
 
 Started in 2010, Stickyboard grew and changed over the years. It went through 4 core versions and each development was driven by lessons learnt from user research, testing and data derived from analytics and surveys.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07443518-1d50-4e7b-8e3a-52096a5834e1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea249158cd93ffece07439dc49184ed042bb929c.jpg)
 
 User centric design techniques and usability research were intrinsic to developments. I would play the role of UX strategist, researcher and designer, agile project manager as well as front-end developer in the following process:
 
