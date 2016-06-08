@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-08T21:03:18.669Z'
-dateModified: '2016-06-08T20:59:22.948Z'
+datePublished: '2016-06-08T21:08:25.614Z'
+dateModified: '2016-06-08T21:03:47.904Z'
 title: 'Project: Creating a new way to access your home'
 author:
   - name: ''
@@ -14,7 +14,7 @@ author:
 sourcePath: _posts/2016-06-07-project-creating-a-new-way-to-access-your-home.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: project-creating-a-new-way-to-access-your-home/index.html
 _type: Article
 
