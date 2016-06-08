@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
   From analysis of internal admin and customer experiences, I designed and help
   deliver a complete administrative software system.
-datePublished: '2016-06-08T21:52:34.167Z'
-dateModified: '2016-06-08T21:49:42.523Z'
+datePublished: '2016-06-08T21:56:05.434Z'
+dateModified: '2016-06-08T21:53:02.861Z'
 title: >-
   Using a waterfall approach, he collaborated with clients through the whole
   project lifecycle: from initial pitch and capturing requirements to finalising
